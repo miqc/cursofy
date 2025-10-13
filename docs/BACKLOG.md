@@ -1,0 +1,21 @@
+# Backlog do Produto - Cursofy
+
+Este documento centraliza todas as funcionalidades e tarefas planejadas para o projeto.
+
+---
+
+### Épica 1: Autenticação e Gestão de Usuários
+
+| ID | História de Usuário | Prioridade |
+| :--- | :--- | :---: |
+| **CUR-01** | Como um novo usuário, eu quero me cadastrar na plataforma usando nome, e-mail e senha para ter acesso aos cursos. | Alta |
+| **CUR-02** | Como um usuário cadastrado, eu quero fazer login com meu e-mail e senha para acessar minha conta. | Alta |
+| **CUR-03** | Como um usuário logado, eu quero poder visualizar e editar as informações do meu perfil. | Média |
+
+### Épica 2: Catálogo e Visualização de Cursos
+
+| ID | História de Usuário | Prioridade |
+| :--- | :--- | :---: |
+| **CUR-04** | Como visitante, eu quero ver uma página com o catálogo de todos os cursos disponíveis para decidir em qual me inscrever. | Alta |
+| **CUR-05** | Como visitante, eu quero poder clicar em um curso do catálogo para ver uma página com seus detalhes (descrição, instrutor, aulas). | Média |
+| **CUR-06** | Como aluno, eu quero ter uma área "Meus Cursos" para ver apenas os cursos nos quais estou matriculado. | Baixa |
