@@ -13,6 +13,7 @@ Este documento detalha as metas e as principais entregas planejadas para cada Sp
 | **CUR-01** | Implementar a funcionalidade de cadastro de novos usuários. |
 | **CUR-02** | Implementar a funcionalidade de login para usuários existentes. |
 | **CUR-04** | Desenvolver a estrutura base da página do catálogo de cursos (sem dados dinâmicos). |
+| **(DOC-01)** | Modelagem UML inicial (Casos de Uso, Atividade, Classe) para guiar a arquitetura. |
 
 ---
 
