@@ -27,3 +27,7 @@ Este documento centraliza todas as funcionalidades e tarefas planejadas para o p
 | **ARC-01** | Definir o escopo do sistema através do Diagrama de Casos de Uso. | Alta |
 | **ARC-02** | Detalhar o fluxo de autenticação com o Diagrama de Atividade. | Alta |
 | **ARC-03** | Modelar a estrutura de dados e relacionamentos com o Diagrama de Classe. | Alta |
+| **ARC-04** | Detalhar a interação entre objetos com o Diagrama de Sequência. | Média |
+| **ARC-05** | Organizar as classes em grupos lógicos com o Diagrama de Pacotes. | Baixa |
+| **ARC-06** | Modelar a arquitetura física com o Diagrama de Componentes. | Baixa |
+| **ARC-07** | Descrever a infraestrutura de deploy com o Diagrama de Implementação. | Baixa |
