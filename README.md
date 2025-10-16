@@ -4,15 +4,22 @@
 O desafio é criar uma plataforma EAD (Ensino a Distância) intuitiva e robusta. A principal dor do mercado é a falta de plataformas que integrem de forma eficiente a gestão de conteúdo pelos instrutores e uma experiência de aprendizado fluida para os alunos. O Cursofy visa resolver isso centralizando todas as ferramentas necessárias em um único lugar.
 
 ## Backlog de Produto
-- O backlog completo do produto, contendo as épicas, features e histórias de usuário, pode ser acessado em: **[Backlog do Produto](./docs/BACKLOG.md)**
+- O backlog completo do produto, contendo as épicas e histórias de usuário, pode ser acessado em: **[Backlog do Produto](./docs/BACKLOG.md)**
 
 ## Cronograma de evolução do Projeto
-- O cronograma detalhado, com a divisão de tarefas e prazos, está disponível em: **[Cronograma do Projeto](./docs/CRONOGRAMA.md)**
+- O cronograma abaixo representa a macro-visão do projeto. Uma versão detalhada está disponível em **[Cronograma do Projeto](./docs/CRONOGRAMA.md)**.
+
+## Diagramas UML
+*A modelagem completa do sistema está sendo desenvolvida e pode ser encontrada na pasta de diagramas. Abaixo estão os links diretos para os principais artefatos visuais.*
+
+- **[Diagrama de Casos de Uso](./docs/diagrams/casos-de-uso/diagrama_casos_de_uso.png)**
+- **[Diagrama de Atividade: Fazer Login](./docs/diagrams/atividades/diagrama_atividade_login.png)**
+- **[Diagrama de Classe](./docs/diagrams/classe/diagrama_de_classe.png)**
 
 ## Sprints
 | Período da Sprint | Documentação da Sprint | Vídeo de Entrega |
 | :---: | :---: | :---: |
-| 15/08 a 29/08/25 | [Documentação Sprint 1](./docs/sprints/SPRINT_1.md) | [Link para o Vídeo da Entrega](https://youtube.com/exemplo) |
+| 13/10/25 a 27/10/25 | [Documentação Sprint 1](./docs/sprints/SPRINT_1.md) | [Link do Vídeo](https://youtube.com/exemplo) | Concluída |
 | 30/08 a 13/09/25 | *A ser definido* | *A ser definido* |
 
 ## Tecnologias utilizadas
