@@ -17,25 +17,20 @@ O desafio é criar uma plataforma EAD (Ensino a Distância) intuitiva e robusta.
 - **[Diagrama de Classe](./docs/diagrams/classe/diagrama_de_classe.png)**
 
 ## Sprints
-| Período da Sprint | Documentação da Sprint | Vídeo de Entrega |
-| :---: | :---: | :---: |
-| 13/10/25 a 27/10/25 | [Documentação Sprint 1](./docs/sprints/SPRINT_1.md) | [Link do Vídeo](https://youtube.com/exemplo) | Concluída |
-| 30/08 a 13/09/25 | *A ser definido* | *A ser definido* |
+- O histórico completo das sprints, incluindo documentação e vídeos de entrega, pode ser acessado em: **[Sprints do Projeto](./docs/SPRINTS.md)**
 
-## Tecnologias utilizadas
-- **Backend:** Python com Django
-- **Frontend:** JavaScript com Next.js e React
-- **Banco de Dados:** PostgreSQL
+## Tecnologias Utilizadas
+- Detalhes completos sobre todas as tecnologias, frameworks e ferramentas utilizadas no projeto podem ser acessados em: **[Tecnologias do Projeto](./docs/TECNOLOGIAS.md)**
 
 ## Estrutura e Execução do Projeto
 - As instruções sobre como configurar o ambiente, executar e testar o projeto estão no **[Manual do Usuário](./docs/MANUAL_USUARIO.md)**.
+
+## Checklists de Qualidade
+- **[Definition of Ready (DoR)](./docs/CHECKLIST_DOR_DOD.md#definition-of-ready-dor)** - Critérios para uma história estar pronta para desenvolvimento
+- **[Definition of Done (DoD)](./docs/CHECKLIST_DOR_DOD.md#definition-of-done-dod)** - Critérios para uma história ser considerada concluída
 
 ## Link para Pasta de Documentação
 - Toda a documentação do projeto, incluindo os checklists de *Definition of Ready* (DoR) e *Definition of Done* (DoD), está centralizada na pasta **[docs](./docs/)**.
 
 ## Equipe
-| Foto | Nome Completo | Papel | Contato |
-| :--- | :--- | :--- | :--- |
-| <img src="https://avatars.githubusercontent.com/u/101799753?v=4" width=115> | Micael da Silva Leal | Desenvolvedor Full-Stack & Arquiteto do Projeto | [LinkedIn](linkedin.com/in/micaeldev) |
-| <img src="https://avatars.githubusercontent.com/u/101799753?v=4" width=115> | Ana Souza Bastos | Desenvolvedor Full-Stack & Arquiteto do Projeto | [LinkedIn](linkedin.com/in/) |
-| <img src="https://avatars.githubusercontent.com/u/101799753?v=4" width=115> | Bruno Lima | Desenvolvedor Full-Stack & Arquiteto do Projeto | [LinkedIn](linkedin.com/in/) |
+- Informações detalhadas sobre a equipe podem ser encontradas em: **[Equipe do Projeto](./docs/EQUIPE.md)**
