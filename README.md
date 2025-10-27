@@ -17,7 +17,7 @@ O desafio é criar uma plataforma EAD (Ensino a Distância) intuitiva e robusta.
 - **[Diagrama de Classe](./docs/diagrams/classe/diagrama_de_classe.png)**
 
 ## Sprints
-- O histórico completo das sprints, incluindo documentação e vídeos de entrega, pode ser acessado em: **[Sprints do Projeto](./docs/SPRINTS.md)**
+- O histórico completo das sprints, incluindo documentação e vídeos de entrega, pode ser acessado em: **[Sprints do Projeto](./docs/sprints/SPRINTS.md)**
 
 ## Tecnologias Utilizadas
 - Detalhes completos sobre todas as tecnologias, frameworks e ferramentas utilizadas no projeto podem ser acessados em: **[Tecnologias do Projeto](./docs/TECNOLOGIAS.md)**
