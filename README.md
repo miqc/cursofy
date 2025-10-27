@@ -14,11 +14,12 @@ O desafio é criar uma plataforma EAD (Ensino a Distância) intuitiva e robusta.
 
 - **[Diagrama de Casos de Uso](./docs/diagrams/casos-de-uso/diagrama_casos_de_uso.png)**
 - **[Diagrama de Atividade: Fazer Login](./docs/diagrams/atividades/diagrama_atividade_login.png)**
+- **[Diagrama de Classe](./docs/diagrams/classe/diagrama_de_classe.png)**
 
 ## Sprints
 | Período da Sprint | Documentação da Sprint | Vídeo de Entrega |
 | :---: | :---: | :---: |
-| 15/08 a 29/08/25 | [Documentação Sprint 1](./docs/sprints/SPRINT_1.md) | [Link para o Vídeo da Entrega](https://youtube.com/exemplo) |
+| 13/10/25 a 27/10/25 | [Documentação Sprint 1](./docs/sprints/SPRINT_1.md) | [Link do Vídeo](https://youtube.com/exemplo) | Concluída |
 | 30/08 a 13/09/25 | *A ser definido* | *A ser definido* |
 
 ## Tecnologias utilizadas
